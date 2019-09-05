@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+有个伟大的演讲家曾经说过，一个优秀的演讲者和一个不会演讲的人，差别就是100个演讲。 
+有个伟大的领袖曾经说过，想成功领导别人，首先要学会领导好自己。 
+你想成为在聚光灯下，赢得台下成千上万观众笑声、掌声、香吻不断的那个演讲人吗？ 
+你想成为在商战中，带领众将士，突出重重包围，将旌旗成功插满一个个高地的那个领导人吗？ 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+这，就是未来某一时刻的我们， 
+这些，Toastmaster都可以帮助我们实现。 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+这一刻，可能起因于我们导演了几次话剧； 
+这一刻，可能缘于我们参加了一次演讲比赛； 
+这一刻，可能就是在我们成为DTM之时…… 
+
+梦想，因我们的追求，而变得临近，
+成功，因我们的预见，而变得简单。
+
+https://site.douban.com/shdrama/
 
 
-[jekyll-organization]: https://github.com/jekyll
